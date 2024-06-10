@@ -6,7 +6,6 @@ import org.junit.Before;
 import org.junit.Test;
 import ru.praktikum.scooter.model.CourierModel;
 import ru.praktikum.scooter.steps.Courier;
-
 import static org.hamcrest.Matchers.is;
 import static org.hamcrest.Matchers.notNullValue;
 

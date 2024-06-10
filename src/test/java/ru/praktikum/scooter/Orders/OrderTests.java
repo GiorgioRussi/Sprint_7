@@ -2,7 +2,6 @@ package ru.praktikum.scooter.Orders;
 
 import org.junit.Test;
 import ru.praktikum.scooter.steps.Order;
-
 import static org.hamcrest.CoreMatchers.not;
 import static org.hamcrest.Matchers.empty;
 
